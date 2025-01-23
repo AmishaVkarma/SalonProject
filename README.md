@@ -1,33 +1,70 @@
-Project Description
-The Salon Management System is a versatile application designed to simplify and optimize salon operations. It provides an intuitive platform for both salon owners and customers, covering everything from appointment scheduling to real-time analytics. With advanced features and user-friendly interfaces, this system ensures an enhanced and personalized salon experience.
+# Getting Started with Create React App
 
-Features
-1. Appointment Scheduling
-Easy booking of appointments based on real-time availability.
-Automated reminders to minimize no-shows.
-2. Service Management
-Display a wide range of services like haircuts, facials, manicures, etc.
-Organized service categories for seamless browsing.
-3. Staff Management
-Assign appointments to staff members efficiently.
-Track staff schedules and performance.
-4. Customer Profiles
-Maintain detailed customer records, including service history and preferences.
-Loyalty rewards and personalized discounts for regular customers.
-5. Payment Integration
-Multiple payment options: cards, UPI, wallets, etc.
-Generate digital invoices for easy record-keeping.
-6. Real-Time Analytics
-Detailed reports on revenue, popular services, and customer demographics.
-Insights to make data-driven business decisions.
-7. Reviews and Feedback
-Collect customer feedback after services.
-Use ratings to enhance service quality.
-8. Promotions and Offers
-Create promotional campaigns to attract customers.
-Notify users via email or in-app alerts.
-Technical Highlights
-Responsive Design: Works on desktops, tablets, and mobile devices.
-Secure Authentication: Role-based access and data protection.
-Customizable Themes: Tailor the design to match the salon's branding.
-Scalable Architecture: Supports single or multi-branch salons.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
